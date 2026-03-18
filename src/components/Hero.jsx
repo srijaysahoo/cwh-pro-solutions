@@ -2,13 +2,13 @@ import React from "react";
 
 /* ================= LOGOS ================= */
 const logos = [
-  "/logos/reo-interior.png",
-  "/logos/reo-news.png",
-  "/logos/booknclean.png",
-  "/logos/bnid-builders.png",
-  "/logos/dayal-sadhana.png",
-  "/logos/kairali.png",
-  "/logos/scans.png",
+  "https://logo.clearbit.com/google.com",
+  "https://logo.clearbit.com/microsoft.com",
+  "https://logo.clearbit.com/amazon.com",
+  "https://logo.clearbit.com/netflix.com",
+  "https://logo.clearbit.com/airbnb.com",
+  "https://logo.clearbit.com/uber.com",
+  "https://logo.clearbit.com/spotify.com"
 ];
 
 export default function Hero() {
